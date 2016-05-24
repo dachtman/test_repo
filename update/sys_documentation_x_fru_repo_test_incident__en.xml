@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="incident" language="en" table="x_fru_repo_test_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>incident</label>
+            <language>en</language>
+            <name>x_fru_repo_test_incident</name>
+            <plural>incidents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dachtman</sys_created_by>
+            <sys_created_on>2016-05-24 18:47:10</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>fafd499e4fab9600b4347d2ca310c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_package display_value="repo_test" source="x_fru_repo_test">02c6499a4fab9600b4347d2ca310c7d8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="repo_test">02c6499a4fab9600b4347d2ca310c7d8</sys_scope>
+            <sys_update_name>sys_documentation_x_fru_repo_test_incident__en</sys_update_name>
+            <sys_updated_by>dachtman</sys_updated_by>
+            <sys_updated_on>2016-05-24 18:47:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

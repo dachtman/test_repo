@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>dachtman</sys_created_by>
+        <sys_created_on>2016-05-24 18:47:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>62fd499e4fab9600b4347d2ca310c7da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_fru_repo_test_incident.x_fru_repo_test_incident_user</sys_name>
+        <sys_package display_value="repo_test" source="x_fru_repo_test">02c6499a4fab9600b4347d2ca310c7d8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="repo_test">02c6499a4fab9600b4347d2ca310c7d8</sys_scope>
+        <sys_security_acl display_value="x_fru_repo_test_incident">26fd499e4fab9600b4347d2ca310c7d9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_62fd499e4fab9600b4347d2ca310c7da</sys_update_name>
+        <sys_updated_by>dachtman</sys_updated_by>
+        <sys_updated_on>2016-05-24 18:47:09</sys_updated_on>
+        <sys_user_role display_value="x_fru_repo_test_incident_user" name="x_fru_repo_test_incident_user">46fd459e4fab9600b4347d2ca310c732</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
